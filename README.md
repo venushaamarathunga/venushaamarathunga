@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Venusha Amarathunga
 
 ## 🧑‍💻 About Me
-I am a **dedicated, passionate, and self-driven individual** with 4 years of experience in software development. I thrive on learning and collaboration, leveraging my strong foundation in software development to tackle new challenges and technologies with enthusiasm. I am currently exploring opportunities to enhance my expertise in [Spring Boot], [React.js], [TypeScript], [AWS], [Node.js], [Next.js], and [Flutter]. My aspiration is to contribute meaningfully to the tech world while continuing to refine and expand my skill set.
+## 🧑‍💻 About Me
+I am a **dedicated, passionate, and self-driven individual** with 4 years of experience in software development. I thrive on learning and collaboration, leveraging my strong foundation in software development to tackle new challenges and technologies with enthusiasm. I am currently exploring opportunities to enhance my expertise in [Spring Boot](), [React.js](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [AWS](https://aws.amazon.com/), [Node.js](https://nodejs.org/), [Next.js](https://nextjs.org/), and [Flutter](https://flutter.dev/). My aspiration is to contribute meaningfully to the tech world while continuing to refine and expand my skill set.
+
 
 
 ---
