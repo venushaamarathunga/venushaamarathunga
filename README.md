@@ -1,12 +1,8 @@
 # 👋 Hi, I'm Venusha Amarathunga
 
 ## 🧑‍💻 About Me
-## 🧑‍💻 About Me
 I am a **dedicated, passionate, and self-driven individual** with 4 years of experience in software development. I thrive on learning and collaboration, leveraging my strong foundation in software development to tackle new challenges and technologies with enthusiasm. I am currently exploring opportunities to enhance my expertise in [Spring Boot](), [React.js](), [TypeScript](), [AWS](), [Node.js](), [Next.js](), and [Flutter](). My aspiration is to contribute meaningfully to the tech world while continuing to refine and expand my skill set.
 
-
-
----
 
 ## 📫 How to Reach Me
 - **📧 Email**: [avenusha95@gmail.com](mailto:avenusha95@gmail.com)  
@@ -16,7 +12,6 @@ I am a **dedicated, passionate, and self-driven individual** with 4 years of exp
 ## 🌍 Location
 📍 **Helsinki, Finland**
 
----
 
 ## 🛠️ Technical Skills
 
@@ -54,7 +49,6 @@ I am a **dedicated, passionate, and self-driven individual** with 4 years of exp
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
 ## 🌟 Interests
 - 🎨 **Creative Design**: Adobe Illustrator, Blender  
@@ -62,4 +56,3 @@ I am a **dedicated, passionate, and self-driven individual** with 4 years of exp
 - ⚽ **Playing Sports**  
 - 🌳 **Taking Nature Walks**
 
----
