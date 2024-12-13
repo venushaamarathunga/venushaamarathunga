@@ -1,7 +1,4 @@
 # Hi there, 👋
-
-##  
-
 ## 👨‍🎓 
 - I’m 👦 **Venusha Amarathunga**, an undergraduate student at the 🎓 **University of Moratuwa, Faculty of Information Technology**.
 
@@ -9,8 +6,6 @@
 - [LinkedIn](https://www.linkedin.com/in/venushaamarathunga)
 - [Email](mailto:avenusha95@gmail.com)
 - [Hackerrank](https://www.hackerrank.com/profile/A_venusha)
-
----
 
 ## 🚀 Technologies & Tools
 - **Programming Languages**:
@@ -44,23 +39,14 @@
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=jira&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
-
----
-
 ## 📚 What I'm Learning
 - Linux
 - AWS (Amazon Web Services)
 - Docker, Kubernetes
 - DevOps practices
 
----
-
 ## 🌟 Interests
 - 🎨 **Creative Design**: Adobe Illustrator, Figma
 - 📖 **Watching Animation**
 - ⚽ **Playing Sports**
 - 🌳 **Taking Nature Walks**
-
----
-
-⭐️ From **Venusha Amarathunga**
