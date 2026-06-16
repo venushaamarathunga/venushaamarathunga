@@ -17,8 +17,6 @@
 - **Frameworks**:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-E23237?style=flat&logo=angular&logoColor=white)
 - **Databases**: 
